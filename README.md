@@ -11,6 +11,6 @@ Construo produtos web que geram **resultado** foco em performance, DX e entrega 
 - **Refatoro legado** sem parar o negócio.
 
 ## Contato
-- 💬 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
-- 🌐 Portfólio: https://SEU-PORTFOLIO-AQUI](https://maiconluizanschau.github.io/
+- 💬 LinkedIn: https://www.linkedin.com/in/maicon-luiz-anschau/
+- 🌐 Portfólio: https://maiconluizanschau.github.io
 - ✉️ Email: maiconluizanschau@gmail.com
